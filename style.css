@@ -155,13 +155,13 @@ iframe {
   margin-bottom: 30px;
 }
 
+.list-outer {
+  width: 300px;
+}
+
 .list-inner {
   padding-top: 10px;
   padding-bottom: 30px;
-}
-
-.list-outer {
-  width: 300px;
 }
 
 .todo-title {
@@ -186,7 +186,6 @@ ul {
   width: 300px;
   word-break: break-all;
   padding-right: 40px;
-  
 }
 
 li:hover {
