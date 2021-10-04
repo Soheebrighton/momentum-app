@@ -160,6 +160,10 @@ iframe {
   padding-bottom: 30px;
 }
 
+.list-outer {
+  width: 300px;
+}
+
 .todo-title {
   font-family: "Syncopate", sans-serif;
   font-weight: 600;
@@ -179,6 +183,10 @@ button:hover {
 
 ul {
   list-style: none;
+  width: 300px;
+  word-break: break-all;
+  padding-right: 40px;
+  
 }
 
 li:hover {
