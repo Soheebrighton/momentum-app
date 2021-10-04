@@ -59,6 +59,10 @@ iframe {
   font-family: "Source Code Pro", monospace;
 }
 
+.login input:focus {
+  outline: none;
+}
+
 .login__name {
   height: 40px;
   width: 15em;
@@ -194,6 +198,10 @@ li:hover {
 
 .login input::placeholder {
   color: white;
+}
+
+.todo-input:focus {
+  outline: none;
 }
 
 .todo-list input::placeholder {
